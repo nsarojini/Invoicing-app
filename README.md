@@ -4,6 +4,8 @@ An Invoice billing application build using React,bootstrap and TailwindCSS.
 Has a sign up and sign in form , which then redirects to the invoice form. We can  Add items, quantity, prices, tax rates and discounts. 
 The generated invoice can be downloaded in PDF format.
 
+The application is compatible in chrome browser.
+
 The website is hosted on netlify :  Hosted link - https://invoicing-billingapp.netlify.app/
 
 ## Screen shots
