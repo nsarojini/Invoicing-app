@@ -1,4 +1,4 @@
-
+Invoicing - Billing Application
 
 An Invoice billing application build using React,bootstrap and TailwindCSS. 
 Has a sign up and sign in form , which then redirects to the invoice form. We can  Add items, quantity, prices, tax rates and discounts. 
